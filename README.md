@@ -6,4 +6,5 @@
 3. *Regular meetings from investigators across disciplines*: minimal bi-weekly meetings between trainees from each discipline, with monthly meetings for the entire study team including both computational and biology PIs.
 4. *Expectations of computational PI*: select and explain analysis methodology, adjusting to fundamental hypotheses of the experiment; generate tables and figures associated with all analyses; provide reproducible scripts for analysis and support depositing data to public domain
 5. *Expectations of biology PI*: obtain appropriate IRB permissions for genomic data sharing prior to sequencing (for human studies); provide marker genes for relevant cell types and annotations of genes found through comptuational analyses; provide clear biological hypotheses to guide steps of the computational analysis
+6. *Ask questions*: If you don't understand something ASK! No question is dumb and there can be many communication barriers between disciplines that can be clarified with a simple question. 
 
